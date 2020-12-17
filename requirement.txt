@@ -1,0 +1,2 @@
+pip install bar_chart_race
+pip install pandas
